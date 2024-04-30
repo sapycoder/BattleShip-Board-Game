@@ -1,2 +1,2 @@
-# BattleShip_Game-
+# Battle Ship Arena Board Game - C++
 BattleShip Game - C++ Class Implementation
